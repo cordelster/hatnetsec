@@ -1,0 +1,2 @@
+# hatnetsec
+#HatNetSec is a effort for Network Security Monitoring based on your tool preferences running on your flavor of RedHat, Fedora, or CentOS. The objectives of this project is to allow the admin to install only the tools they want to use either in all in one box, or modularly, thus creating as light weight of an installation possible for each segment or target and integrate the chosen components in a sensible way.
